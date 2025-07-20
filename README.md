@@ -55,10 +55,7 @@ Results
 
 ---
 
-
-⚙️ How to Run This Project
-
-🚀 How to Run This Project on Google Colab
+🚀 How to Run This Project
 
 You can run this project directly on Google Colab without installing anything locally.
 
